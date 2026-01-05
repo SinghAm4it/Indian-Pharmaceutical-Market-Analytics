@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Pharmaceutical Market Analytics
+# Indian Pharmaceutical Market Analytics
 
 ## 📌 Project Overview
 This project presents a **comprehensive analytical study of the Indian pharmaceutical market**, focusing on **product pricing, formulation strategy, therapeutic segmentation, manufacturer behavior, and market structure**.
