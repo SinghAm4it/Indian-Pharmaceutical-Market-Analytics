@@ -22,8 +22,8 @@ print("Rows in CSV:", len(df))
 # -----------------------------
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="fuckREDDIT@0769",
+    user="username",
+    password="password",
     database="indian_pharmaceuticals"
 )
 
@@ -97,4 +97,5 @@ print(f"Inserted {cursor.rowcount} rows successfully")
 # -----------------------------
 cursor.close()
 conn.close()
+
 
